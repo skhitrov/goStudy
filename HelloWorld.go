@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var b bool
+	var b bool //default is false
 	var isOk bool = true
 	var success = true
 	cond := true
